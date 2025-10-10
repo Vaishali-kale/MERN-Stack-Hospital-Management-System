@@ -1,0 +1,18 @@
+node_modules
+backend/config.env
+
+//backend:=>
+npm install bcrypt cloudinary cookie-parser cors dotenv express mongoose express-fileupload jsonwebtoken validator
+==>npm install
+==>npm run dotenv
+
+
+//frontend
+==>npm install
+==>npm install axios react-icons react-multi-carousel react-router-dom react-toastify
+
+
+//dashboard
+==>npm install
+==>npm install axios react-router-dom react-toastify react-icons
+
