@@ -15,4 +15,20 @@ npm install bcrypt cloudinary cookie-parser cors dotenv express mongoose express
 //dashboard
 ==>npm install
 ==>npm install axios react-router-dom react-toastify react-icons
+===================================================================================
+config.env :=>
+-------------------------
+PORT=5000
 
+MONGO_URI=mongodb+srv://vaishalikale:vaishali@cluster0.mlfuuoc.mongodb.net/MERN_STACK_HOSPITAL_MANAGEMENT_SYSTEM?retryWrites=true&w=majority
+
+FRONTEND_URL=http://localhost:5173
+DASHBOARD_URL=http://localhost:5174
+
+JWT_SECRET_KEY=mysecret123
+JWT_EXPIRES=7d
+COOKIE_EXPIRE=7
+
+CLOUDINARY_CLOUD_NAME=daudxt887
+CLOUDINARY_API_KEY=337291767453521
+CLOUDINARY_API_SECRET=iDc9q-k5fBw8hfO27lZ6qrd-Gb0
